@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1681868700 source:c:\game\game2\ghost_object.cpp
+	"File.h/ghost_object.h"
+
+1681842330 c:\game\game2\file.h\ghost_object.h
+	<SDL.h>
+	<SDL_image.h>
+	"constants.h"
+	<math.h>
+
+1681842330 c:\game\game2\file.h\constants.h
+	<string>
+	<SDL_ttf.h>
+
+1681869210 source:c:\game\game2\init.cpp
+	"File.h/init.h"
+	"File.h/constants.h"
+
+1681842330 c:\game\game2\file.h\init.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+
+1682497268 source:c:\game\game2\main_object.cpp
+	"File.h/main_object.h"
+
+1681842330 c:\game\game2\file.h\main_object.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"constants.h"
+
+1681868969 source:c:\game\game2\scoreboard.cpp
+	"File.h/scoreBoard.h"
+	"File.h/constants.h"
+	<iostream>
+
+1681842330 c:\game\game2\file.h\scoreboard.h
+	<string>
+	<fstream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1681869002 source:c:\game\game2\sound.cpp
+	"File.h/sound.h"
+
+1681842330 c:\game\game2\file.h\sound.h
+	"init.h"
+
+1682497268 source:c:\game\game2\valuetouse.cpp
+	"File.h/valueToUs.h"
+	"File.h/init.h"
+	<math.h>
+
+1681842330 c:\game\game2\file.h\valuetous.h
+	<SDL.h>
+	<SDL_image.h>
+	"constants.h"
+
+1682497268 source:c:\game\game2\screen.cpp
+	"File.h/screen.h"
+	"File.h/sound.h"
+	"File.h/main_object.h"
+	"File.h/valueToUs.h"
+
+1681842330 c:\game\game2\file.h\screen.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1681869048 source:c:\game\game2\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+	<bits/stdc++.h>
+	"File.h/constants.h"
+	"File.h/init.h"
+	"File.h/map.h"
+	"File.h/sound.h"
+	"File.h/main_object.h"
+	"File.h/ghost_object.h"
+	"File.h/scoreBoard.h"
+	"File.h/screen.h"
+	"File.h/valueToUs.h"
+
+1681842330 c:\game\game2\file.h\map.h
+	<fstream>
+	<iostream>
+	"constants.h"
+	"init.h"
+
+1681869141 source:c:\game\game2\map.cpp
+	"File.h/map.h"
+
