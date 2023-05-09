@@ -1,5 +1,5 @@
 
-// bigProject UET-VNU 2023_22028209
+
 #include "SDL.h"
 #include "SDL_image.h"
 #include "SDL_ttf.h"
